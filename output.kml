@@ -1,0 +1,1612 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Export</name>
+        <open>1</open>
+        <Folder>
+            <name>Entsorgungsanlagen</name>
+            <Placemark>
+                <name>ABB Power Grids Germany AG </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>12.8277 52.659</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ABCO M. Lyssy Recycling Abbruch Schrott e.K.</name>
+                <description>Schrottlagerplatz Guben </description>
+                <Point>
+                    <coordinates>14.6969 51.9334</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Abfallentsorgungsverband Schwarze Elster</name>
+                <description>Wertstoffhof </description>
+                <Point>
+                    <coordinates>13.98049 51.58055</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Abfallentsorgungsverband Schwarze Elster</name>
+                <description>MBA - mit Wertstoffhof Elektro - Altger&#228;te</description>
+                <Point>
+                    <coordinates>13.9804 51.5826</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Achim&#191;s Container Service GbR Hans-Joachim und Yves Selonke</name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>12.8831 52.6125</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>AFAMAS International Ltd. Chilaka Leo Chukwudi</name>
+                <description>Zwischenlager f&#252;r Altreifen </description>
+                <Point>
+                    <coordinates>13.5613 52.168</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>AHD Agrar Handels- und  Dienstleistungs UG</name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>13.56845 51.47164</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>AL SADI Reifenhandel An- und Verkauf</name>
+                <description>Zwischenlager Autoreifen</description>
+                <Point>
+                    <coordinates>12.9363 52.6821</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ALBA Berlin GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>14.1232 52.7103</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ALBA Lausitz GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>14.3728 51.7635</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ALBA Metall Nord GmbH </name>
+                <description>zeitw. Zwischenlagerung von  Eisen- und Nichteisenschrotten</description>
+                <Point>
+                    <coordinates>12.3874 52.5178</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ALBA Metall Nord GmbH </name>
+                <description>Aufbereitungsanlage f. Altfahrzeuge und ZL</description>
+                <Point>
+                    <coordinates>13.6361 52.3053</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ALBA Metall Nord GmbH Altbatteriezwischenlager</name>
+                <description>Altbatteriezwischenlager </description>
+                <Point>
+                    <coordinates>11.8416 53.1061</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ALBA Metall Nord GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.3005 52.287</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ALBA Metall Nord GmbH </name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>13.9605 51.8439</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ALBA Metall Nord GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.6397 52.508</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ALBA S&#252;dost-Brandenburg GmbH Niederlassung K&#246;nigs Wusterhausen</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.6361 52.3053</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ALBA Uckermark GmbH </name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>14.2329 53.0834</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Alisch Entsorgung GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>12.4816 52.8859</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>AL-SA Reifensortierung u. Lagerung Aliev, Nicolle</name>
+                <description>Zwischenlagerung von Altreifen </description>
+                <Point>
+                    <coordinates>14.1519 52.5026</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ALTANA Pharma Oranienburg GmbH </name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>13.2536 52.7475</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>APM Abfallwirtschaft Potsdam-Mittel mark GmbH</name>
+                <description>Zwischenlager f&#252;r gef&#228;hrliche und  nicht gef&#228;hrliche Abf&#228;lle</description>
+                <Point>
+                    <coordinates>12.7019 52.0828</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ARGE Airport Recycling Services BER </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.52966 52.36671</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ATR Recycling Potsdam GmbH Lager Brandenburg a.d.Havel</name>
+                <description>Zwischenlager und Behandlung von Metallabf&#228;llen</description>
+                <Point>
+                    <coordinates>12.5002 52.4109</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ATR Recycling Potsdam GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.3015 52.3883</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Autohaus Ilgeroth GmH + Co. KG </name>
+                <description>Annahme von Altautos </description>
+                <Point>
+                    <coordinates>11.7344 52.9979</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Autoservice Badingen Dieter Woidke</name>
+                <description>Zwischenlager f&#252;r Autowracks </description>
+                <Point>
+                    <coordinates>13.2515 52.9963</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>AWU Abfallwirtschafts-Union Ostprignitz-Ruppin GmbH</name>
+                <description>Sonderabfallzwischenlager mit  Behandlung</description>
+                <Point>
+                    <coordinates>12.51682 52.85411</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>AWU Abfallwirtschafts-Union Ostprignitz-Ruppin GmbH</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>12.528 52.8512</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>AWU Ostrprignitz-Ruppin GmbH </name>
+                <description>Sortieranlage f&#252;r Altpapier und Leichtfraktion</description>
+                <Point>
+                    <coordinates>12.528 52.8512</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>AWZ AbfallWirtschaftsZentrum Lichterfelde GmbH</name>
+                <description>Zwischenlager f&#252;r gef&#228;hrliche  Abf&#228;lle &lt; 30 t</description>
+                <Point>
+                    <coordinates>13.7736 52.8694</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>B &amp; B Recycling GmbH </name>
+                <description>Anlage zur zeitweiligen Lagernung  von Eisen- und Nichteisenschrotten</description>
+                <Point>
+                    <coordinates>13.4743 52.3569</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Banner Batterien Deutschland GmbH </name>
+                <description>Zwischenlager f&#252;r Altbatterien </description>
+                <Point>
+                    <coordinates>12.7997 52.8861</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Barnimer  Dienstleistungsgesellschaft mbH</name>
+                <description>Umschlagboxen f&#252;r den Umschlag von Abf&#228;llen</description>
+                <Point>
+                    <coordinates>13.85211 52.83916</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Barnimer  Dienstleistungsgesellschaft mbH </name>
+                <description>Wertstoffhof </description>
+                <Point>
+                    <coordinates>13.7968 52.95581</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Barnimer  Dienstleistungsgesellschaft mbH</name>
+                <description>Umschlagbox f&#252;r Papier </description>
+                <Point>
+                    <coordinates>13.85211 52.83916</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Barnimer  Dienstleistungsgesellschaft mbH</name>
+                <description>Wertstoffhof </description>
+                <Point>
+                    <coordinates>13.73276 52.63536</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Barnimer Dienstleistungsgesellschaf t mbH (BDG)</name>
+                <description>Zwischenlager (Recyclinghof) </description>
+                <Point>
+                    <coordinates>13.6184 52.69425</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Batterieservice J&#246;rg Zippel </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>14.0387 53.0748</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Baugesch&#228;ft Jost Bossan </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>12.5412 52.3982</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Baumec GmbH Baumschinen Handel,  Service und Transporte</name>
+                <description>Zwischenlager/Umschlagplatz f&#252;r  Eisen- und Nichteisenschrotte</description>
+                <Point>
+                    <coordinates>12.4886 53.1479</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Becker + Armbrust GmbH Niederlassung Ludwigsfelde St II</name>
+                <description>Zwischenlager und Behandlung </description>
+                <Point>
+                    <coordinates>13.2613 52.3208</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Becker + Armbrust GmbH </name>
+                <description>Behandlung und Lagerung von nicht gef&#228;hrlichen Abf&#228;llen</description>
+                <Point>
+                    <coordinates>14.4741 52.2895</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Becker + Armbrust GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>14.08452 52.35848</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Becker + Armbrust GmbH </name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>14.08452 52.35848</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Beyersdorf-Entsorgung GmbH </name>
+                <description>Containerabstellplatz </description>
+                <Point>
+                    <coordinates>13.74031 52.54797</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>b.i.o. bodenreinigungsanlage in  oberhavel GmbH</name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>13.19522 52.67984</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>B&#246;rner Transport und Handels GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>14.3399 51.5701</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Brandenburger Agrarlogistik GmbH i.G.</name>
+                <description>mobile Mischanlage (Kl&#228;rschlamm mit Branntkalk)</description>
+                <Point>
+                    <coordinates>12.3625 52.3776</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Brandenburger Schrott Verwertung GmbH</name>
+                <description>Schrottaufbereitung Schrottplatz</description>
+                <Point>
+                    <coordinates>14.0792 52.3787</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Brandenburger Schrott- Verwertung GmbH</name>
+                <description>Zwischenlager Eisen- und Nichteisenschrott</description>
+                <Point>
+                    <coordinates>14.3869 52.6253</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>BRC Bodenrecycling GmbH  </name>
+                <description>Zwischenlagerung Bodenaushub </description>
+                <Point>
+                    <coordinates>13.7954 52.3393</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>CAG Cottbuser Asphaltgesellschaft mbH &amp; Co. KG</name>
+                <description>Asphaltmischanlage zur Herstellung bitumin&#246;ser Stra&#223;enbaustoffe</description>
+                <Point>
+                    <coordinates>14.1507 51.7566</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>CEMEX Logistik GmbH </name>
+                <description>Anlage zum Umschlag von staubenden G&#252;tern, Behandlung von Abf&#228;llen</description>
+                <Point>
+                    <coordinates>13.8278 52.487</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Contis Reifen Service </name>
+                <description>Zwischenlager f&#252;r Altreifen </description>
+                <Point>
+                    <coordinates>12.8928 52.6154</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Dahm &amp; Bohnsack Handels- und  Recycling GmbH</name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>12.4557 52.8581</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>DEUPO Kies und Beton GmbH &amp;  Co. KG</name>
+                <description>Umschlag von gef&#228;hrlichen, nicht  gef&#228;hrlichen Abf&#228;llen u. Sch&#252;ttg&#252;t.</description>
+                <Point>
+                    <coordinates>13.7954 52.3393</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>DEUTAG Ost Zweigniederlassung der Basalt-Actien-Gesellschaft</name>
+                <description>Asphaltmischanlage </description>
+                <Point>
+                    <coordinates>12.455 52.852</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Dowideit Erden GmbH </name>
+                <description>Lagerplatz f&#252;r Kompost, Erden und C-Tr&#228;ger</description>
+                <Point>
+                    <coordinates>12.9615 52.5426</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>EKO Schrottrecycling GmbH </name>
+                <description>Schrottplatz/Fallwerk </description>
+                <Point>
+                    <coordinates>14.6286 52.1617</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>EKO-Collections GmbH </name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>14.65354 51.75199</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Elling Recycling Inh. Klaus Elling</name>
+                <description>Metallr&#252;ckgewinnung (Lagerung und Aufbereitung von Schrott)</description>
+                <Point>
+                    <coordinates>13.5703 52.6767</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>EMV Eisen- und Metallverwertungs    gesellschaft mbH</name>
+                <description>Schrottlagerplatz </description>
+                <Point>
+                    <coordinates>14.3676 51.7621</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Entsorgungs GmbH Rudolph </name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>13.6488 52.3104</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Entsorgungs-GmbH Luckau </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.7236 51.85826</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Ernst Recycling GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.2664 52.7772</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Ernst Recycling GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.2664 52.7772</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ERV GmbH Entsorgung - Recycling - Verwertung</name>
+                <description>Zwischenlager Fettabscheiderabf&#228;lle </description>
+                <Point>
+                    <coordinates>13.1834 52.6829</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ESR Elektronik Service Reck </name>
+                <description>Elektronikschrottverwertung </description>
+                <Point>
+                    <coordinates>13.7264 52.8606</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Euro Form Technik GmbH </name>
+                <description>Herstellung und Zwischenlagerung  von Ersatzbrennstoffen</description>
+                <Point>
+                    <coordinates>11.8467 53.092</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Eurologistik-Umweltservice GmbH </name>
+                <description>Ersatzbrennstoff - Zwischenlager im Recyclingzentrum J&#228;nschwalde</description>
+                <Point>
+                    <coordinates>14.3446 51.7512</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>EUROVIA Industrie GmbH ARW Gro&#223; K&#246;lzig</name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>14.5813 51.6427</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>EUROVIA VBU NL Lindow</name>
+                <description>ZL f&#252;r Baurestmassen i.V.m. zeitw. Einsatz einer Recyclinganlage</description>
+                <Point>
+                    <coordinates>12.9896 52.9649</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Fa. H&#246;bel, Niederlassung  Brandenburg</name>
+                <description>Abfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.6078 52.6794</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Fehr Umwelt Ost GmbH BS D&#246;beritz</name>
+                <description>Aufbereitungsanlage und ZL f&#252;r Transformatoren und Wandler</description>
+                <Point>
+                    <coordinates>12.4025 52.5243</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Fehr Umwelt Ost GmbH BS Falkenhagen</name>
+                <description>Bauschuttbehandlung </description>
+                <Point>
+                    <coordinates>12.217 53.2239</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Feigel Umwelt-Service GmbH Niederlassung Frankfurt (Oder)</name>
+                <description>Sonderabfallzwischenlager f&#252;r  Havarief&#228;lle</description>
+                <Point>
+                    <coordinates>14.4868 52.2863</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Feigel Umwelt-Service GmbH Niederlassung Ludwigsfelde</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.2646 52.3276</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Fenix Metals Sp. z.o.o. </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>12.8198 52.36379</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Firma Martin Wernz Natur- und Umweltdienste</name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>13.10884 52.35942</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>FLN Feuerl&#246;schger&#228;te Neuruppin Vertriebs GmbH</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>12.8335 52.9269</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Frankfurter Dienstleistungsholding GmbH</name>
+                <description>Abfallumschlagstation </description>
+                <Point>
+                    <coordinates>14.4886 52.3603</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Fuhse Transport-GmbH Tanklager Strausberg</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.9068 52.5806</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>GAMBERT GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.2373 52.3855</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Gieske Containerdienst GmbH  </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>12.9204 52.3921</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>GMS Gummi Master Sabrodt UG (haftungsbeschr&#228;nkt)</name>
+                <description>Lagerung von Altreifen </description>
+                <Point>
+                    <coordinates>14.161 52.1524</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>GP G&#252;nter Papenburg  Aktiengesellschaft</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.25635 52.37842</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>GP G&#252;nter Papenburg  Aktiengesellschaft</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.10548 52.36459</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Griesbach Dienstleistungen GmbH </name>
+                <description>Schrottlagerplatz </description>
+                <Point>
+                    <coordinates>14.4285 51.8516</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>GRUNSKE Metall - Recycling GmbH &amp; Co. KG</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.1751 52.737</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>GRUNSKE Metall - Recycling GmbH &amp; Co. KG</name>
+                <description>Anlage zur zeitweiligen Lagerung von nicht b&#252; Abf&#228;llen</description>
+                <Point>
+                    <coordinates>13.1751 52.737</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>GRUNSKE Metall - Recycling GmbH &amp; Co. KG</name>
+                <description>Abfallumschlagstation </description>
+                <Point>
+                    <coordinates>13.1751 52.737</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>GRUNSKE Metall - Recycling GmbH &amp; Co. KG</name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>13.1751 52.737</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>GRUNSKE Metall - Recycling GmbH &amp; Co. KG</name>
+                <description>Sonderabfallzwischenlager f&#252;r  Teerpappe</description>
+                <Point>
+                    <coordinates>13.1751 52.737</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Grunske Metall-Recycling GmbH  &amp; Co. KG</name>
+                <description>Ballierungsanlage </description>
+                <Point>
+                    <coordinates>13.1786 52.737</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Grunske Metall-Recycling GmbH &amp; Co. KG</name>
+                <description>Zwischenlager  Ballenware Ersatzbrennstoffe</description>
+                <Point>
+                    <coordinates>13.1582 52.7598</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>GRUNSKE Metall-Recycling GmbH &amp; Co. KG</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.1786 52.737</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Gudrun Ritter &amp; Norbert B&#246;dner Produktvermittlungs- und</name>
+                <description>Zwischenlager f&#252;r Altreifen </description>
+                <Point>
+                    <coordinates>13.3741 52.1617</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>HAW Havell&#228;ndische Abfallwirtschaft sgesellschaft mbH</name>
+                <description>Wertstoffhof </description>
+                <Point>
+                    <coordinates>12.3043 52.58662</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Herbert und Ingo Stolz Recycling GmbH</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>12.0517 53.2414</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Herbert und Ingo Stolz  Recycling GmbH</name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>12.0388 53.2486</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Heyer tankmark Inh. Marko Heyer</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>12.5759 52.7293</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>H.-Joachim S&#252;&#223;muth Containerdienst &amp; Schrotthandel</name>
+                <description>Schrottlagerplatz </description>
+                <Point>
+                    <coordinates>14.3717 51.7727</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Hoffmann Transport &amp; Recycling  GmbH</name>
+                <description>Erdstoffzwischenlager </description>
+                <Point>
+                    <coordinates>13.6152 52.6798</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Hoffmann Transport &amp; Recycling GmbH </name>
+                <description>Altholzrecyclinganlage </description>
+                <Point>
+                    <coordinates>13.6189 52.68141</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Horstfelder Sand u. Kies GmbH &amp; Co. </name>
+                <description>Zwischenlager f&#252;r Baurestmassen </description>
+                <Point>
+                    <coordinates>13.3794 52.225</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>HYSA Hygiene und Sauberkeit Vertriebsgesellschaft mbH &amp; Co KG</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.5917 52.5963</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>IKV Innovative  Kunststoffveredlungs GmbH</name>
+                <description>Behandlung von PET-Flaschen </description>
+                <Point>
+                    <coordinates>12.364 52.5362</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ISR Recycling GmbH &amp; Co. KG </name>
+                <description>Schrottplatz mit Altautobehandlungs und Abfallzwischenlager</description>
+                <Point>
+                    <coordinates>13.4272 52.6481</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>I.S.T.C.  Ingenieur-, Stra&#223;en- und Tiefbau Cottbus GmbH</name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>14.3407 51.5942</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>J&#246;rg Zippel Batterieservice Zippel</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>14.03844 52.79348</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Kompostierbetrieb "proflor"/HTC Con tainerdienst</name>
+                <description>Altholzaufbereitungsanlage </description>
+                <Point>
+                    <coordinates>13.6586 52.48654</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Kreisverwaltung Ostprignitz-Ruppin </name>
+                <description>Annahmestelle f&#252;r Abfallkleinmengen Deponie Str&#252;we</description>
+                <Point>
+                    <coordinates>12.3762 52.9406</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Kr&#252;ger Metallhandel GmbH </name>
+                <description>Schrottplatz mit ZL </description>
+                <Point>
+                    <coordinates>14.603 52.2378</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Kulisch &amp; Co. Fahrzeug- Handels- und Verwertungs GmbH</name>
+                <description>Zwischenlagerung i.V.m. Demontage v. Elektroaltger&#228;ten</description>
+                <Point>
+                    <coordinates>13.1103 52.3609</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Kulisch &amp; Co. Fahrzeug-Handels- und Verwertungs-GmbH</name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>13.1081 52.36385</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Kulisch &amp; Partner Fahrzeug-Handels- und Verwertungs GmbH</name>
+                <description>Zwischenlager f&#252;r gemischte Bau- und Abbruchabf&#228;lle</description>
+                <Point>
+                    <coordinates>13.1094 52.3617</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Kunststoffverarbeitung Potsdam </name>
+                <description>Kunststoffvermahlung </description>
+                <Point>
+                    <coordinates>13.009 52.4647</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>KWU Kommunales Wirtschafts- unternehmen Entsorgung</name>
+                <description>Abfallumladestation AUST </description>
+                <Point>
+                    <coordinates>14.6744 52.1454</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>KWU Kommunales Wirtschafts- unternehmen Entsorgung</name>
+                <description>Abfallumladestation AUST </description>
+                <Point>
+                    <coordinates>14.1173 52.3009</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Laborbetreuung IMD GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>14.5433 52.3436</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Landkreis Ostprignitz-Ruppin Umladestation Temnitzpark</name>
+                <description>Umladestation Temnitzpark </description>
+                <Point>
+                    <coordinates>12.7096 52.9147</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Landkreis Ostprignitz-Ruppin </name>
+                <description>Umladestat. Wittstock-Scharfenberg </description>
+                <Point>
+                    <coordinates>12.429 53.1226</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Landkreis Prignitz </name>
+                <description>Umladestation </description>
+                <Point>
+                    <coordinates>11.7174 52.9935</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Landkreis Spree-Nei&#223;e </name>
+                <description>Umladestation </description>
+                <Point>
+                    <coordinates>14.7377 51.6705</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Landwirtschaftsbetrieb Oliver J&#228;hnigen</name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>13.6153 51.46684</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Lobbe Industrieservice GmbH &amp; Co KG Lageranlage</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>14.3497 51.5786</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Lobbe Industrieservice GmbH &amp; Co KG Lageranlage</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>14.3497 51.5786</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Lobbe Industrieservice GmbH &amp; Co KG Behandlungsanlage</name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>14.3497 51.5786</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>M&#228;rkische Bunker und Service GmbH &amp; Co. KG</name>
+                <description>Aufbereitungsanlage f&#252;r Bilgen wasser und ZL</description>
+                <Point>
+                    <coordinates>14.6378 52.1479</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>M&#228;rkische Bunker und Service GmbH &amp; Co. KG</name>
+                <description>Aufbereitungsanlage f&#252;r Bilgen wasser und ZL</description>
+                <Point>
+                    <coordinates>14.6378 52.1479</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>M&#228;rkische Entsorgungsgesellschaft Brandenburg mbH</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>12.51 52.4155</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>M&amp;C Allmosen GmbH Metallhandel und Containerdienst</name>
+                <description>Altmetallsammelstelle Allmosen </description>
+                <Point>
+                    <coordinates>14.0898 51.58</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>MEAB M&#228;rkische Entsorgungsanlagen- Betriebsgesellschaft mbH</name>
+                <description>Abfallumschlagstation </description>
+                <Point>
+                    <coordinates>13.8166 52.487</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Mecklenbg. Sero Recycling GmbH </name>
+                <description>Schadstoffmobil LK Prignitz </description>
+                <Point>
+                    <coordinates>11.858 53.074</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Medentex Recycling Service GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.5734 52.6568</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Metallbau Wille </name>
+                <description>Anlage zur zeitweiligen Lagerung u. Behandlung von Eisen- oder Nicht-</description>
+                <Point>
+                    <coordinates>11.7931 53.0312</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Metallische Rohstoffe Frank Rosner</name>
+                <description>Schrottlagerplatz  mit Altreifenannahme</description>
+                <Point>
+                    <coordinates>13.2523 51.7634</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Metallrecycling &amp; Containerdienst K lein</name>
+                <description>Zwischenlager f&#252;r Schrott und Metal l</description>
+                <Point>
+                    <coordinates>14.6323 51.7409</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Mineral&#246;lhandel Hans Schmidt GmbH &amp; Co. KG</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>12.8875 52.6011</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Minol Zentraltank GmbH </name>
+                <description>Tanklager </description>
+                <Point>
+                    <coordinates>13.2387 51.6887</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Minol Zentraltank GmbH </name>
+                <description>Tanklager </description>
+                <Point>
+                    <coordinates>14.6442 51.7431</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Minol Zentraltank GmbH </name>
+                <description>Tanklager </description>
+                <Point>
+                    <coordinates>14.7447 51.6726</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Minol Zentraltank GmbH </name>
+                <description>Tanklager </description>
+                <Point>
+                    <coordinates>14.6824 51.9576</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Minol Zentraltank GmbH </name>
+                <description>Tanklager </description>
+                <Point>
+                    <coordinates>14.0102 51.5289</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Overseas Transport-, Umschlag-,  Lagerdienste- und Handel GmbH</name>
+                <description>Zwischenlager f&#252;r Altpapier </description>
+                <Point>
+                    <coordinates>14.60967 51.70727</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Perleberger Baugesellschaft mbH </name>
+                <description>Zwischenlager f&#252;r Mineralabf. </description>
+                <Point>
+                    <coordinates>11.8372 53.0619</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Prietz Transportgesellschaft mbH </name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>13.6691 52.8319</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Pro&#223;mann M.G. Recycling GmbH </name>
+                <description>Aufbereitungsanlage f&#252;r Kabel </description>
+                <Point>
+                    <coordinates>13.2179 51.8159</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Pro&#223;mann M.G.Recycling GmbH </name>
+                <description>Schrottplatz  </description>
+                <Point>
+                    <coordinates>13.1571 51.8446</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>PSR Prenzlauer Schrottrecycling GmbH</name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>13.865 53.3174</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>PSR Prenzlauer Schrottrecycling  GmbH</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.8653 53.3176</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>R. Fischer GmbH Transport- und  Baustoffhandel</name>
+                <description>Zwischenlager f&#252;r Erdstoffe </description>
+                <Point>
+                    <coordinates>13.21569 52.36524</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>REA GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>14.2039 51.6476</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Recycling Center Zauchwitz GmbH </name>
+                <description>Lagerung und Behandlung von Bau- und Abbruchabf&#228;llen</description>
+                <Point>
+                    <coordinates>13.05246 52.21758</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Recyclingzentrum Bad Freienwalde GmbH</name>
+                <description>Anlage zum Behandeln, Umschlagen u. Lagern nicht gef&#228;hrlicher Abf&#228;lle</description>
+                <Point>
+                    <coordinates>14.0085 52.7871</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Reifen - Grunze GmbH </name>
+                <description>Zwischenlager f&#252;r Altreifen </description>
+                <Point>
+                    <coordinates>13.9598 51.8566</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Reifengro&#223;handel Wiesenburg UG (haftungsbeschr&#228;nkt)</name>
+                <description>Zwischenlager mit Sortierung </description>
+                <Point>
+                    <coordinates>12.4627 52.1164</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>REMONDIS Brandenburg GmbH </name>
+                <description>Recyclinghof </description>
+                <Point>
+                    <coordinates>13.2083 51.678</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>REMONDIS Brandenburg GmbH </name>
+                <description>Aufbereitungsanlage f&#252;r Altholz </description>
+                <Point>
+                    <coordinates>14.0412 51.5814</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>REMONDIS Industrie Service GmbH &amp; Co. KG</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.8698 51.4719</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>repaper Sekund&#228;rrohstoffe GmbH </name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>13.2613 52.38133</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Richter Recycling GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>12.9768 52.3673</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Richter Recycling GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.10816 52.36385</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Robert Berndt </name>
+                <description>Lagerung von Schrott </description>
+                <Point>
+                    <coordinates>13.4264 52.6499</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>S &amp; B Containerdienst GmbH </name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>13.92497 51.83279</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Safety-Kleen Deutschland GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.6551 52.5132</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>SASTET GmbH </name>
+                <description>Zwischenlager f&#252;r Baggergut im Kiessandtagebau Birkholz 1</description>
+                <Point>
+                    <coordinates>14.251 52.1875</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Scholz Recycling GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.8083 51.4964</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Scholz Recycling GmbH </name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>13.8019 51.5079</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Scholz Recycling GmbH </name>
+                <description>Schrottlagerplatz </description>
+                <Point>
+                    <coordinates>14.3991 51.5738</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Scholz Recycling GmbH </name>
+                <description>Schrottlagerplatz </description>
+                <Point>
+                    <coordinates>13.9821 51.7343</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Scholz Recycling GmbH </name>
+                <description>Schrottlagerplatz </description>
+                <Point>
+                    <coordinates>13.8846 51.4553</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Scholz Recycling GmbH </name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>13.8083 51.4964</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Scholz Recycling GmbH &amp; Co. KG </name>
+                <description>Schrottlagerplatz </description>
+                <Point>
+                    <coordinates>14.3547 51.528</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Scholz Recycling GmbH &amp; Co. KG Regionalbereich Ost/Nord</name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>13.6389 52.3055</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Schr&#246;der - Transporte  Containerdienst &amp;. Entsorgung</name>
+                <description>Umladestation als Nebenanlage  Zwischenlager</description>
+                <Point>
+                    <coordinates>11.8395 53.0645</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Schrott Recycling Finsterwalde GmbH </name>
+                <description>Schrottlagerplatz </description>
+                <Point>
+                    <coordinates>13.7129 51.6394</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Schrotthandel Frank Birkhold </name>
+                <description>Schrottlagerplatz </description>
+                <Point>
+                    <coordinates>14.7068 51.9643</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Schrotthandlung &amp; Containerdienst Udo Besse</name>
+                <description>Schrottlagerplatz </description>
+                <Point>
+                    <coordinates>14.4036 51.8528</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Schwab Recycling </name>
+                <description>Zwischenlager-Schrott </description>
+                <Point>
+                    <coordinates>12.4822 52.25</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>SEL Senftenberger Entsorgung &amp;  Logistik GmbH</name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>13.9985 51.5318</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>SKAN Handel und Vermittlung GmbH </name>
+                <description>Zwischenlagerung von Altreifen </description>
+                <Point>
+                    <coordinates>13.8969 52.3259</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>SMR Schrott-Metall-Recycling GmbH </name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>14.0876 52.3569</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Stadtentsorgung Potsdam GmbH </name>
+                <description>Umschlagstation f. gemischte Siedlungsabf&#228;lle und Sperrm&#252;ll</description>
+                <Point>
+                    <coordinates>13.1079 52.3624</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Stadtentsorgung Potsdam GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.1063 52.3603</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Stadtentsorgung Potsdam GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.045 52.4359</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Stadtentsorgung Potsdam GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.1079 52.3624</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Stadtentsorgung Potsdam GmbH </name>
+                <description>Containerumschlagfl&#228;che zur  Beseitigung von Gewerbeabf&#228;llen</description>
+                <Point>
+                    <coordinates>13.1063 52.3603</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Stadtentsorgung Potsdam GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.1103 52.36619</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Stadtverwaltung Cottbus Amt f&#252;r Abfallwirtschaft und Stadtreinigung</name>
+                <description>Wertstoffhof </description>
+                <Point>
+                    <coordinates>14.33142 51.71911</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Stadtverwaltung Cottbus Amt f&#252;r  Abfallwirtschaft und Stadtreinigung</name>
+                <description>Wertstoffhof </description>
+                <Point>
+                    <coordinates>14.36549 51.79592</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Stadtverwaltung Cottbus Amt f&#252;r   Abfallwirtschaft und Stadtreinigung</name>
+                <description>Wertstoffhof </description>
+                <Point>
+                    <coordinates>14.37283 51.76418</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Stenzel GmbH Frankfurt (Oder) </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>14.5367 52.3594</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>STEP Stadtentsorgung Potsdam GmbH</name>
+                <description>Umschlagplatz f&#252;r Sandfang-, Sieb-  und Rechenr&#252;ckst&#228;nde</description>
+                <Point>
+                    <coordinates>13.1055 52.3636</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>STEP Stadtentsorgung Potsdam GmbH </name>
+                <description>Zwischenlager f&#252;r Altglas </description>
+                <Point>
+                    <coordinates>13.1055 52.3606</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>STEP Stadtentsorgung Potsdam GmbH </name>
+                <description>Umschlagplatz f&#252;r LVP </description>
+                <Point>
+                    <coordinates>13.1055 52.3636</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>STEP Stadtentsorgung Potsdam GmbH </name>
+                <description>Zwischenlager f&#252;r nicht gef&#228;hrliche Abf&#228;lle</description>
+                <Point>
+                    <coordinates>13.1056 52.364</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>St&#246;rk GmbH </name>
+                <description>Zwischenlagerung von Altholz i.V.m. Shredder (Kompostierung)</description>
+                <Point>
+                    <coordinates>12.8953 52.6247</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Theo Steil GmbH NL Eisenh&#252;ttenstadt</name>
+                <description>Lagerung von Eisen- und Nichteisen- schrotten, einschl. Autowracks</description>
+                <Point>
+                    <coordinates>14.6497 52.1523</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Thilo Stimmel Metallhandel, Kabel-Recycling, Fuhrbetrieb</name>
+                <description>Metallhandel, Kabelrecycling </description>
+                <Point>
+                    <coordinates>13.6826 52.8413</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Thoben Antriebs- und  Filtertechnik GmbH</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>11.8614 53.0879</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>TransHand Baustoffaufbearbeitung </name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>14.057 52.8944</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Transporte &amp; Tiefbau Armin Sallmann </name>
+                <description>Anl. zur Behandlung u. zeitweilig. Lagerung von nicht gef. Abf&#228;llen</description>
+                <Point>
+                    <coordinates>14.5103 51.6054</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Transporte-Containerdienst Helmut Lehmann</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>14.0581 52.7777</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Truck &amp; Havariedienst J&#228;nicke GmbH </name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.0783 52.7157</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>TSR Recycling GmbH &amp; Co. KG Niederlassung Neuruppin</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>12.7948 52.877</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>TSR Recycling GmbH &amp; Co. KG NL Hennigsdorf</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.2142 52.6454</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>TSR Recycling GmbH &amp; Co. KG Niederlassung Finowfurt</name>
+                <description>Sonderabfallzwischenlager </description>
+                <Point>
+                    <coordinates>13.688 52.8367</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Uckerm&#228;rkische Dienstleistungsgesellschaft mbH</name>
+                <description>Wertstoffannahmehof </description>
+                <Point>
+                    <coordinates>13.74777 53.16868</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Uckerm&#228;rkische Dienstleistungsgesellschaft mbH</name>
+                <description>Wertstoffannahmehof </description>
+                <Point>
+                    <coordinates>13.61026 53.25719</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Uckerm&#228;rkische  Dienstleistungsgesellschaft mbH</name>
+                <description>Wertstoffannahmehof </description>
+                <Point>
+                    <coordinates>14.07213 53.03965</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Uckerm&#228;rkische  Dienstleistungsgesellschaft mbH</name>
+                <description>Wertstoffannahmehof </description>
+                <Point>
+                    <coordinates>14.3791 53.21074</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Uckerm&#228;rkische  Dienstleistungsgesellschaft mbH</name>
+                <description>Wertstoffannahmehof </description>
+                <Point>
+                    <coordinates>14.00094 53.00611</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Uckerm&#228;rkische  Dienstleistungsgesellschaft mbH</name>
+                <description>Wertstoffannahmehof </description>
+                <Point>
+                    <coordinates>14.10749 53.13993</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Uckerm&#228;rkische  Dienstleistungsgesellschaft mbH</name>
+                <description>Wertstoffannahmehof </description>
+                <Point>
+                    <coordinates>14.12381 53.40086</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Uckerm&#228;rkische  Dienstleistungsgesellschaft mbH</name>
+                <description>Wertstoffannahmehof </description>
+                <Point>
+                    <coordinates>13.31978 53.19595</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Uckerm&#228;rkische  Dienstleistungsgesellschaft mbH</name>
+                <description>Wertstoffannahmehof </description>
+                <Point>
+                    <coordinates>13.63502 53.10052</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Uckerm&#228;rkische  Dienstleistungsgesellschaft mbH</name>
+                <description>Wertstoffannahmehof </description>
+                <Point>
+                    <coordinates>13.99349 53.21296</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Uckerm&#228;rkische Dienstleistungs- gesellschaft mbH </name>
+                <description>Anlage zur zeitweiligen Lagerung v. gef&#228;hrlichen u. nicht gef&#228;hrlichen </description>
+                <Point>
+                    <coordinates>13.8696 53.3229</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Veolia Umweltservice Ost GmbH &amp; Co. KG</name>
+                <description>Zwischenlager </description>
+                <Point>
+                    <coordinates>13.53463 51.45235</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Viborg GmbH Niederlassung 261</name>
+                <description>Altreifenentsorgung </description>
+                <Point>
+                    <coordinates>13.2443 52.762</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Werner Wegner </name>
+                <description>Schrottlagerplatz </description>
+                <Point>
+                    <coordinates>12.1938 53.1492</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Wertstoffhof Teltow (WKZ) Abfallwirtschaft Potsdam-Mittelmark</name>
+                <description>Anlage zur zeitweiligen Lagerung  von gef&#228;hrlichen und</description>
+                <Point>
+                    <coordinates>13.261 52.3809</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Wertstoffhof Werder (WKZ) Abfallwirtschaft Potsdam-Mittelmark</name>
+                <description>Anlage zur zeitweiligen Lagerung  von gef&#228;hrlichen und </description>
+                <Point>
+                    <coordinates>12.9097 52.4</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Wrensch Containerdienst und  Recycling GmbH &amp; Co. KG</name>
+                <description>Zwischenlager f&#252;r gef&#228;hrliche  Abf&#228;lle &lt; 30 t</description>
+                <Point>
+                    <coordinates>13.7736 52.8694</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>WSZ Wertstoffzentrum und Recycling Brandenburg GmbH</name>
+                <description>Abfallbehandlungsanlage / Zwischenlager</description>
+                <Point>
+                    <coordinates>12.59708 52.37881</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Zehdenicker Schrott- und Metall GmbH</name>
+                <description>Schrottplatz </description>
+                <Point>
+                    <coordinates>13.3451 53.0053</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ZHB Holzverwertung-GmbH &amp; Co. KG </name>
+                <description>Altholzaufbereitung </description>
+                <Point>
+                    <coordinates>13.5186 52.0788</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
